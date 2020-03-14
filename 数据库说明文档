@@ -1,0 +1,37 @@
+1、店铺类别集合（shopTypeList）
+    _id:类别ID
+    shopTypeName:店铺类别名称
+    shopTypePic:店铺类别图片
+    addTime:店铺增加的时间
+2、店铺集合（shopList）
+    _id:店铺ID
+    shopName:店铺名字
+    shopPic:店铺图片
+ *shopTypeId:店铺类别ID
+    shopTypeName:店铺类别的名字
+    addTime:店铺增加的时间
+3、商品类别集合（goodsTypeList）
+    _id:商品类别ID
+ *shopId:店铺Id
+    shopName:店铺的名称
+    goodsTypeName:商品类别的名字
+    addTime:商品添加时间
+4、商品集合：
+    _id:商品ID
+    goodsName:商品名称
+ *goodsTypeId:商品类别ID
+    goodsTypeName:商品类别名字
+    goodsPic:商品图片
+    goodsPrice:商品价格
+    isDaZhe:是否打折
+5、管理员登陆
+    _id
+    adminName
+    passWord: // md5
+    addTime
+6、管理员登陆日志
+7、用户信息表
+9、发送短信信息表
+*****************************************************
+
+

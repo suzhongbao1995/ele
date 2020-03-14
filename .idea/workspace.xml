@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2364df1-b4ff-4969-9f68-2021d4eb7e3c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/manage/src/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage/src/filters/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage/src/store/admin/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/src/store/discover/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/src/store/home/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/src/views/discover/discover.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/src/views/order/order.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/src/views/profile/profile.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/manage/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/manage/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/manage/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/manage/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage/src/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/manage/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage/src/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/manage/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage/src/views/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/site/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/site/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/site/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/site/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/src/router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/src/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/src/views/Home.vue" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>labelWidth</find>
+      <find>shopIwd</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/manage" />
+  </component>
+  <component name="ProjectId" id="1OmhzM3mW4gRLdwmDSrkPewUOzU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="E:\编辑器\WebStorm 2019.1.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\app\ele\site\src\store" />
+      <recent name="G:\app\ele\api" />
+      <recent name="G:\app\ele" />
+      <recent name="G:\app\ele\manage\src\components" />
+      <recent name="G:\app\ele\manage\src\filters" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.test.js">
+    <configuration name="md5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="md5.js" working-dir="$PROJECT_DIR$/api/module">
+      <method v="2" />
+    </configuration>
+    <configuration name="server2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/api/server2.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/api">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/api/module">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/api">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.test.js" />
+        <item itemvalue="Node.js.server.js" />
+        <item itemvalue="Node.js.test.js (1)" />
+        <item itemvalue="Node.js.server2.js" />
+        <item itemvalue="Node.js.md5.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2364df1-b4ff-4969-9f68-2021d4eb7e3c" name="Default Changelist" comment="" />
+      <created>1562556273692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562556273692</updated>
+      <workItem from="1562556276182" duration="31676000" />
+      <workItem from="1562632480322" duration="38901000" />
+      <workItem from="1562716786233" duration="45727000" />
+      <workItem from="1562804697047" duration="32135000" />
+      <workItem from="1562860429616" duration="1099000" />
+      <workItem from="1562889686208" duration="3301000" />
+      <workItem from="1562926303417" duration="642000" />
+      <workItem from="1562927091048" duration="17816000" />
+      <workItem from="1562976033506" duration="29353000" />
+      <workItem from="1563017770263" duration="6482000" />
+      <workItem from="1563077111641" duration="595000" />
+      <workItem from="1563080196162" duration="2127000" />
+      <workItem from="1563084117135" duration="7856000" />
+      <workItem from="1563164229522" duration="28775000" />
+      <workItem from="1563235274724" duration="27642000" />
+      <workItem from="1563340200693" duration="24458000" />
+      <workItem from="1563411251002" duration="39865000" />
+      <workItem from="1563498589554" duration="8034000" />
+      <workItem from="1564588941993" duration="1175000" />
+      <workItem from="1564674109154" duration="903000" />
+      <workItem from="1565540576690" duration="1846000" />
+      <workItem from="1565568966078" duration="2411000" />
+      <workItem from="1565605598732" duration="41000" />
+      <workItem from="1566113651737" duration="8300000" />
+      <workItem from="1566398529175" duration="185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
